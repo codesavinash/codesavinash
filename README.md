@@ -1,47 +1,79 @@
-# 👋 Hi there! I'm Avinash Sreedharan — aka `codesavinash`
+# 👋 Hey, I'm Avinash Sreedharan — aka `codesavinash`
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22DD66&center=true&vCenter=true&width=420&lines=Code+Eat+Sleep+Repeat" alt="Typing Animation" />
 </p>
 
-Welcome to my GitHub profile! I'm a passionate **IT professional and developer** with a growing focus on **cybersecurity**, **full-stack development**, and **technical problem solving**. I bring hands-on experience in **desktop support**, system administration, and ethical hacking, and I’m currently expanding into software development.
+I'm a passionate and self-driven **developer** and **IT professional** based in Mississauga 🇨🇦, currently diving deep into the world of **full-stack development**, **cybersecurity**, and **automation**. I love solving problems, writing clean code, and building tools that are both functional and user-friendly.
+
+---
+
+### 💡 What I Do
+
+- 🔧 **Web & App Development** — HTML, CSS, JavaScript, Git, Adobe XD  
+- 🔐 **Cybersecurity & Ethical Hacking** — Studying exploits, securing systems, learning Kali Linux  
+- ⚙️ **System Support & Admin** — Imaging, diagnostics, Windows Server, BIOS/UEFI  
+- 🔁 **Automation & Scripting** — Bash, Python for everyday tech tasks  
+- 📘 **Learning Daily** — Currently focusing on C programming, Java, and Swift  
+- 🧑‍💻 **Open Source Contributor** — Actively building simple, useful projects like `BudgetBuddy`
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-- 💻 **Languages:** JavaScript, C, Python, Bash, HTML/CSS  
-- 🛠️ **Dev Tools:** VS Code, IntelliJ IDEA, Adobe XD, Xcode  
-- ☁️ **Cloud/DevOps:** Azure, GitHub, Git  
-- 🧠 **Learning:** Ethical Hacking, Java, Swift, Web & Mobile Dev  
-- 🧪 **OSes:** Windows, Ubuntu, Fedora, Kali Linux  
-- 🧰 **Support Skills:** Windows Server, Imaging, BIOS/UEFI, Diagnostics
+- 💻 **Languages:** JavaScript, C, Python, HTML/CSS, Bash  
+- 🧠 **Learning:** Java, Swift, ethical hacking, backend dev  
+- 🧰 **Dev Tools:** VS Code, GitHub, IntelliJ IDEA, Adobe XD, Xcode  
+- ☁️ **Cloud/DevOps:** Azure, GitHub Actions  
+- 💾 **OSes:** Windows, Fedora, Ubuntu, Kali Linux, Mac
 
 ---
 
-### 🚀 Current Projects & Goals
+### 🚀 Current Projects
 
-- 🎓 Studying **Web & Development Fundamentals** at Trios College  
-- 🔐 Learning **ethical hacking** & aiming for cybersecurity roles  
-- 🧠 Building **daily discipline** with 6 AM coding sessions  
-- 🛠️ Working on small tools and automation scripts  
-- ✍️ Publishing journals and planners on Amazon KDP  
+- 🔧 **[BudgetBuddy](https://github.com/codesavinash/July4_Assignment_3)** — Expense tracker with a clean UI, local storage, and chart features  
+- 📓 **Bible Journal + Daily Planner** — Creative content for Amazon KDP, built with Canva & InDesign  
+- 🎨 **Kids’ Coloring Book Series** — Designed for fun and learning, now available on Amazon  
+- ⚒️ Always working on small productivity tools and educational scripts
+
+---
+
+### 🧠 Developer Mindset
+
+I believe in:
+- Consistency over perfection
+- Learning in public
+- Shipping small, useful things
+- Helping others while growing my own skills
 
 ---
 
 ### 📈 GitHub Stats
 
-![codesavinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codesavinash&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codesavinash&layout=compact&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codesavinash&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=codesavinash&theme=radical" />
+</p>
 
 ---
 
-### 📫 Let's Connect!
+### 🗂️ Developer Goals for 2025
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/avinashsreedharan/)
-- ✉️ Reach me: avinashsreedharan@gmail.com
-- 🌐 [Portfolio Site (coming soon)](https://github.com/codesavinash)
+- ✅ Build 3 open source web tools  
+- ✅ Complete Trios College dev program  
+- 🎯 Land a junior dev or cybersecurity analyst role  
+- 🔐 Get hands-on with penetration testing & automation  
+- 📚 Stay consistent with daily coding (6–8 AM)
 
 ---
 
-> “Stay curious. Keep building. Break things, fix them, and grow.” 🔐👨‍💻
+### 📫 Let’s Connect!
+
+- [🌐 Portfolio (coming soon)](https://github.com/codesavinash)  
+- [💼 LinkedIn](https://www.linkedin.com/in/avinashsreedharan/)  
+- 📧 Email: avinashsreedharan@gmail.com  
+
+---
+
+> _"Stay curious. Keep building. Break things, fix them, and grow."_  
+> — `codesavinash`
