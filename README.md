@@ -70,8 +70,8 @@ I believe in:
 ### 📫 Let’s Connect!
 
 - [🌐 Portfolio (coming soon)](https://github.com/codesavinash)  
-- [💼 LinkedIn](https://www.linkedin.com/in/avinashsreedharan/)  
-- 📧 Email: avinashsreedharan@gmail.com  
+- [💼 LinkedIn] https://www.linkedin.com/in/avinash-sreedharan-a182666a/  
+- 📧 Email: avinashsreedhar@gmail.com  
 
 ---
 
