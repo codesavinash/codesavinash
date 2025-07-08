@@ -1,6 +1,6 @@
 <!-- GitHub Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codesavinash/codesavinash/main/banner.png" width="100%" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/codesavinash/codesavinash/main/avi.jpg" width="100%" alt="GitHub Banner" />
 </p>
 
 # 👋 Hey, I'm Avinash Sreedharan — aka `codesavinash`
