@@ -1,3 +1,8 @@
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codesavinash/codesavinash/main/banner.png" width="100%" alt="GitHub Banner" />
+</p>
+
 # 👋 Hey, I'm Avinash Sreedharan — aka `codesavinash`
 
 <p align="center">
@@ -41,10 +46,10 @@ I'm a passionate and self-driven **developer** and **IT professional** based in 
 ### 🧠 Developer Mindset
 
 I believe in:
-- Consistency over perfection
-- Learning in public
-- Shipping small, useful things
-- Helping others while growing my own skills
+- Consistency over perfection  
+- Learning in public  
+- Shipping small, useful things  
+- Helping others while growing my own skills  
 
 ---
 
@@ -69,8 +74,8 @@ I believe in:
 
 ### 📫 Let’s Connect!
 
-- [🌐 Portfolio (coming soon)](https://github.com/codesavinash)  
-- [💼 LinkedIn] https://www.linkedin.com/in/avinash-sreedharan-a182666a/  
+- 🌐 [Portfolio (coming soon)](https://github.com/codesavinash)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/avinash-sreedharan-a182666a/)  
 - 📧 Email: avinashsreedhar@gmail.com  
 
 ---
