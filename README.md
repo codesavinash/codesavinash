@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi, I’m **Avinash Sreedharan**. I’m passionate about building **modern, interactive, and responsive web apps**.  
+Hi, I’m **Avinash Sreedharan**. I’m passionate about building **modern, interactive, and responsive full-stack web apps**.  
 I focus on **Next.js + TypeScript**, with **Tailwind CSS, Framer Motion, and Lottie** for animations.  
 
 🌐 **Check out my portfolio:** [codesavinash-github-io.vercel.app](https://codesavinash-github-io.vercel.app)
