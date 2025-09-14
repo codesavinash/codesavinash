@@ -7,19 +7,23 @@ Welcome to my personal portfolio! 🌐 Live Demo: [https://codesavinash-github-i
 ## 📌 About Me
 
 Hi, I’m **Avinash Sreedharan**. I love building web apps, exploring full-stack development, and crafting clean, functional, and responsive interfaces.  
-My main focus is **Next.js + TypeScript**, with modern tools like **Tailwind CSS**, **Framer Motion**, and **Lottie** for animations.
+Main focus: **Next.js + TypeScript**, with **Tailwind CSS**, **Framer Motion**, and **Lottie** animations.
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesavinash&show_icons=true&theme=tokyonight&hide_border=false&hide_rank=true&card_width=400" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesavinash&layout=compact&theme=tokyonight&hide_border=false&card_width=400" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codesavinash&show_icons=true&theme=radical&count_private=true&hide_rank=false&card_width=450" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesavinash&layout=compact&theme=radical&hide_border=false&card_width=450" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesavinash&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesavinash&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codesavinash&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
@@ -43,6 +47,14 @@ My main focus is **Next.js + TypeScript**, with modern tools like **Tailwind CSS
   <a href="https://github.com/codesavinash"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:avinash@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://codesavinash-github-io.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF9900?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
+</p>
+
+---
+
+## 💫 Highlights
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFDD00&width=500&lines=Full+Stack+Developer;+React+|+Next.js+|+Node.js;+Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 ---
