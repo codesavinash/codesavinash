@@ -1,58 +1,54 @@
-# 🚀 Hi, I’m Avinash Sreedharan
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer" alt="Typing Greeting"/>
+# 👋 Hi, I'm Avinash Sreedharan
+### 🌐 Full Stack Developer | MERN & Next.js Enthusiast | Tech & Animation Lover
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="120" alt="coder animation" />
+</p>
 
 ---
 
-## 🌐 About Me
+## 🔹 About Me
+I’m a passionate **Full Stack Developer** focused on building **modern, responsive web apps** using **Next.js, TypeScript, and Tailwind CSS**.  
+I love adding interactivity and smooth animations with **Framer Motion** and **Lottie**.
 
-Hi, I’m **Avinash Sreedharan** — a passionate **Full-Stack Developer**. I love building modern web apps, exploring full-stack development, and crafting clean, responsive, and interactive interfaces.  
+---
 
-My main focus is **Next.js + TypeScript**, with modern tools like **Tailwind CSS**, **Framer Motion**, and **Lottie** for animations.  
+## 📊 GitHub Stats
 
-Beyond coding, I enjoy problem-solving, learning new technologies, and continuously improving my skills.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits-1200-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-35-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-500-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-150-purple?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://assets10.lottiefiles.com/packages/lf20_3xq2udmj.json" width="80" alt="animated commits" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Framer Motion  
-- **Backend:** Node.js, Express, MongoDB  
-- **Deployment & Hosting:** GitHub Pages, Vercel  
-- **Animations & UI:** Lottie, React Icons, Lucide  
-- **Tools:** Git, GitHub, VS Code  
-
----
-
-## 💻 Projects & Portfolio
-
-Check out my portfolio with live demos and interactive projects:  
-🌐 **[My Portfolio](https://codesavinash-github-io.vercel.app/)**
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Contact Me
-
-- 📩 Email: avinashsreedharan@example.com  
-- 🔗 LinkedIn: [Avinash Sreedharan](https://www.linkedin.com/in/avinash-sreedharan-a182666a/)  
-- 💻 GitHub: [codesavinash](https://github.com/codesavinash)
-
----
-
-## ✨ Key Features
-
-- 🌗 Dark / Light Mode (auto-detect system theme)  
-- ⚡ Smooth scroll-to-section navigation  
-- 🧠 Minimalist and responsive design  
-- ✨ Interactive Projects Section with modals and hover animations  
-- 📩 Fully functional contact form using EmailJS  
-- 🎨 Animated UI elements using Lottie and Framer Motion  
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/avinash-sreedharan-a182666a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/codesavinash" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📄 License
-
-This project is **open source**. Feel free to fork, modify, or use it — just give credit where it’s due.  
-
----
-
-> Built with passion, pixels, and a full-stack mindset 💻🔥
+> ⚡ Fun Fact: I love bringing websites to life with smooth animations, interactive components, and a clean, modern UI.
