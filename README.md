@@ -11,7 +11,7 @@ Main focus: **Next.js + TypeScript**, with **Tailwind CSS**, **Framer Motion**, 
 
 ---
 
-## 🌟 GitHub Stats (Animated)
+## 🌟 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codesavinash&show_icons=true&theme=radical&count_private=true&hide_rank=false&card_width=450" alt="GitHub Stats" />
