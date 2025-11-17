@@ -10,10 +10,10 @@ https://codesavinash-github-io-sau7.vercel.app/
 
 Hi, I’m Avinash Sreedharan, a passionate Frontend Developer with strong full-stack understanding.
 I love building fast, modern, and responsive web applications using:
-	•	React & Next.js
-	•	Tailwind CSS
-	•	TypeScript
-	•	Framer Motion
+	•	HTML
+	•	CSS
+	•	JavaScript
+	•	React.js
 
 I enjoy turning ideas into clean UI, smooth animations, and production-ready code.
 
